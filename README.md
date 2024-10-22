@@ -75,8 +75,3 @@ WisPer should be used for authorized penetration testing and/or educational purp
 ## License
 
 MIT License
-
-# Acknowledgments
-
-[@jborean93](https://github.com/jborean93)  - [pypsexec](https://github.com/jborean93/pypsexec) \
-[@AlessandroZ](https://github.com/AlessandroZ) - [Lazagne](https://github.com/AlessandroZ/LaZagne)
